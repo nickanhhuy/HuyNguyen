@@ -13,5 +13,4 @@
 
 ---
 
-- 🌱 I’m currently focused on AWS Cloud skills  
-- 📫 How to reach me: (add your email or LinkedIn here)
+
